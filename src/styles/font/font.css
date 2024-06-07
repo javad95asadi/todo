@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'RazerF5';
+    src: url('./RazerF5.woff') format('woff');
+}
+@font-face {
+    font-family: 'RazerF5Bold';
+    src: url('./RazerF5Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'RazerF5SemiBold';
+    src: url('./RazerF5SemiBold.woff') format('woff');
+}
+
+*{
+    font-family: 'RazerF5', sans-serif;
+}
+
+.bold{
+    font-family: 'RazerF5Bold', sans-serif;
+
+}
+.semibold{
+    font-family: 'RazerF5SemiBold', sans-serif;
+
+}
